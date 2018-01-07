@@ -1,1 +1,1 @@
-# name-generator
+# Name Generator
